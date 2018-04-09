@@ -1,6 +1,6 @@
 {
   "name": "strider-deconst-common",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Shared utilities for Deconst Strider build plugins",
   "main": "index.js",
   "scripts": {
@@ -22,12 +22,12 @@
   },
   "homepage": "https://github.com/deconst/strider-deconst-common#readme",
   "dependencies": {
-    "async": "2.0.0-rc.3",
-    "colors": "1.1.2",
-    "dockerode": "2.2.10",
-    "request": "2.72.0"
+    "async": "2.6.0",
+    "colors": "1.2.1",
+    "dockerode": "2.5.4",
+    "request": "2.85.0"
   },
   "devDependencies": {
-    "standard": "6.0.8"
+    "standard": "11.0.1"
   }
 }
